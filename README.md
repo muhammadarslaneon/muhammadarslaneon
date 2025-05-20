@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Muhammad Arslan</h1>
-<h3 align="center">I’m deep into offensive security, with a love for **web app hacking**, **network pentesting**, and **DevSecOps wizardry**. I tinker with CI/CD pipelines, automate security checks, and occasionally (read: often) try to break things—legally, of course.</h3>
+<h3 align="center">I’m deep into offensive security, with a love for web app hacking, network pentesting, and DevSecOps wizardry. I tinker with CI/CD pipelines, automate security checks, and occasionally (read: often) try to break things—legally, of course.</h3>
 
 - 🔭 I’m currently working on **Apache Log Analyzer**
 
 - 🌱 I’m currently learning **ISO 27001, GDPR, HIPAA**
+
+- 👨‍💻 Global Certificaltion include:
+        **1. Ethical Hacker from EC-Council,
+          2. Certified in Cyber Security from ISC2,
+          3. Certified Network Security Practioner
+          4. ISO27001:2022 LA
+          5. Threat Intelligence Analyst
+          6. Mobile Application Penetration Testing from TCH Security
+          7. Practical Web Application Security and Testing**
 
 - 👯 I’m looking to collaborate on **Centralized Exploitation Tool Inventory**
 
